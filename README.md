@@ -67,3 +67,5 @@ acme /n/ftrv.se
 
 
 ## TODO: 9fans.org image
+
+9fans is a fork of plan9 that is active and has a lot more software.  (not sure if rpi wifi is supported though)
