@@ -58,7 +58,7 @@ I'm not really sure yet.  There's no web browser in the standard plan9 distro.
 
 You can "mount" remote servers easily:
 ```
-# Browse sigrid's 9fans code repos
+# Browse sigrid's 9front code repos
 9fs ftrv.se
 ls /n/ftrv.se
 
@@ -66,6 +66,6 @@ acme /n/ftrv.se
 ```
 
 
-## TODO: 9fans.org image
+## TODO: 9front.org image
 
-9fans is a fork of plan9 that is active and has a lot more software.  (not sure if rpi wifi is supported though)
+9front is a fork of plan9 that is active and has a lot more software.  (not sure if rpi wifi is supported though)
