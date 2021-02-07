@@ -52,3 +52,18 @@ ndb/dns -r # start dns resolver
 ip/ping google.com  # test dns and network.  Press DEL to kill (similar to Ctrl-c on linux)
 ```
 
+### Now what?
+
+I'm not really sure yet.  There's no web browser in the standard plan9 distro.
+
+You can "mount" remote servers easily:
+```
+# Browse sigrid's 9fans code repos
+9fs ftrv.se
+ls /n/ftrv.se
+
+acme /n/ftrv.se
+```
+
+
+## TODO: 9fans.org image
