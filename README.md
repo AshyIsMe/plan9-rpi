@@ -66,6 +66,13 @@ acme /n/ftrv.se
 ```
 
 
-## TODO: 9front.org image
+## 9front fork
 
-9front is a fork of plan9 that is active and has a lot more software.  (not sure if rpi wifi is supported though)
+9front is a fork of plan9 that is active and has a lot more software. Wifi is not yet supported on the raspberry pi in 9front.
+
+Download rpi image from here:
+http://9front.org/releases/
+As per the doco: The pi.img file can be used for Raspberry Pi 1, 2, and 3. The pi3.img file can be used for Raspberry Pi 3 and 4.
+
+dd to an sdcard the same as above.
+As wifi is not yet supported you will need to use an ethernet cable and follow the documentation in `man ipconfig`
